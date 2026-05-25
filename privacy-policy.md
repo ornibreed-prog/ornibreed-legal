@@ -9,7 +9,7 @@ La presente informativa descrive come l'applicazione mobile **OrniBreed** ("l'Ap
 ## 1. Titolare del trattamento
 
 **Dario Canella**
-Email: dario.canella86@gmail.com
+Email: ornibreed@gmail.com
 
 Il Titolare è la persona fisica responsabile delle decisioni sulle finalità e modalità del trattamento dei dati personali raccolti tramite OrniBreed.
 
@@ -126,7 +126,7 @@ Ai sensi degli articoli 15-22 del GDPR, l'utente ha diritto a:
 - **Opposizione** al trattamento (art. 21)
 - **Revoca del consenso** in qualsiasi momento, senza pregiudicare la liceità del trattamento svolto fino a quel momento
 
-Per esercitare questi diritti, scrivi a: **dario.canella86@gmail.com**
+Per esercitare questi diritti, scrivi a: **ornibreed@gmail.com**
 
 Hai inoltre diritto a presentare un reclamo al **Garante per la protezione dei dati personali** (www.garanteprivacy.it).
 
@@ -154,7 +154,7 @@ Eventuali modifiche a questa Privacy Policy saranno pubblicate in questa stessa 
 
 Per qualsiasi domanda relativa al trattamento dei dati personali:
 
-**Email**: dario.canella86@gmail.com
+**Email**: ornibreed@gmail.com
 **Versione App di riferimento**: 1.0
 
 ---
